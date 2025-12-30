@@ -1,1 +1,3 @@
-# Ce repos sert à protéger vos tokens lors des interventions (changement de base de données ou de chiffrement)
+# PROTECTION DES TOKENS
+Ce dépôt a pour objectif de protéger vos tokens lors des opérations de maintenance (changement de base de données, mise à jour du chiffrement, etc.).
+# ⚠️Aucun token présent dans ce dépôt n’est utilisable en l’état.
